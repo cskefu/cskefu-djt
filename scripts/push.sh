@@ -18,4 +18,6 @@ export DATE_WITH_TIME=`date "+%Y%m%d-%H%M%S"` #add %3N as we want millisecond to
 [ -z "${BASH_SOURCE[0]}" -o "${BASH_SOURCE[0]}" = "$0" ] || return
 
 cd $baseDir/..
-git push origin master
+git push origin main -f
+git push gitee main -f
+git push gitcode main -f
