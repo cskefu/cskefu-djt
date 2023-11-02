@@ -158,7 +158,7 @@
 
 在 [Chatopera 证书商店](https://store.chatopera.com/product/cskfdjt19) 获得到证书 ID（`LICENSE_ID`） 后，文件的下载地址为：
 
-https://store.chatopera.com/dl/`${LICENSE_ID}`.gz
+https://store.chatopera.com/dl/${LICENSE_ID}.gz
 
 
 将 `${LICENSE_ID}` 替换为您的证书标识。假设上一步得到的证书标识为：`L123`，那么 URL 下载地址就是：
