@@ -169,7 +169,7 @@ https://store.chatopera.com/dl/L123.gz
 **将您的课程文件的 URL 下载地址在浏览器中打开，完成下载，文件大小约 3.5 GB。您也可以使用 `wget` 命令行工具从命令行终端（比如 Bash Shell）下载和解压。**
 
 ```
-wget https://store.chatopera.com/dl/L123.gz -O cskfdjt.tar.gz
+wget --no-check-certificate https://store.chatopera.com/dl/L123.gz -O cskfdjt.tar.gz
 tar xzfv cskfdjt.tar.gz # 进行解压
 ```
 
