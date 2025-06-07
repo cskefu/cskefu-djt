@@ -174,6 +174,13 @@ tar xzfv cskfdjt.tar.gz # 进行解压
 ```
 
 
+## 联系我们
+
+当您遇到下载问题等，需要咨询，通过下面方式联系我们。
+
+![](./assets/images/wx_chatoperacs_humanagent.png)
+
+
 ## 春松客服：做好开源客服系统
 
 春松客服是开源客服系统，首个版本发布于 2018 年，截至 2023 年，以 GitHub Star, Issues 反馈等衡量，是目前最流行的中文开源客服系统。春松客服包含多个开箱即用的模块：
